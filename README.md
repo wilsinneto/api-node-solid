@@ -1,3 +1,3 @@
 # Principle - SOLID#
 
-In practice
+SOLID In practice
