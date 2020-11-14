@@ -1,3 +1,3 @@
 # Principle - SOLID#
 
-SOLID In practice using Pattern Package By Feature
+SOLID with a focus on S.L.D. in practice using Pattern Package By Feature
